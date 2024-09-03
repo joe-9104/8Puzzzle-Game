@@ -22,15 +22,17 @@ To run the project, ensure you have installed the necessary dependencies mention
 ## Installation
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/joe-9104/8Puzzle-game.git
    cd 8Puzzle-game
    ```
 2. Make sure you have Python 3.12 or a newer version installed
 3. Install the required libraries:
+   ```
    > pip install customtkinter
    > pip install pygame
    > pip install numpy
+   ```
 
 ## Usage
 
