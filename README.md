@@ -11,7 +11,7 @@ The project includes several features:
 2. **Dynamic Display Update**: Each tile move updates the grid display.
 3. **Automatic Solving**: The project implements two automatic solving algorithms:
    - **Hill Climbing**: A local search algorithm that attempts to minimize the number of misplaced tiles at each step.
-   - **A* (A Star)**: An optimal pathfinding algorithm using Manhattan distance as a heuristic to find the shortest solution.
+   - **A*** **(A Star)**: An optimal pathfinding algorithm using Manhattan distance as a heuristic to find the shortest solution.
 4. **Move Visualization**: The solving algorithms visually show each tile movement until the solution is found.
 5. **Success and Failure Indication**: Tiles change color to indicate if the grid is solved (green) or if the algorithm fails to find a better solution (red), playing the appropriate soundtrack.
 
